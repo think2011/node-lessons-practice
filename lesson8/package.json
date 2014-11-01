@@ -1,0 +1,12 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "devDependencies": {
+    "should": "~4.1.0",
+    "mocha": "~2.0.1",
+    "supertest": "~0.14.0"
+  },
+  "dependencies": {
+    "express": "~4.10.1"
+  }
+}
